@@ -1,4 +1,4 @@
-# Full-Stack Application Demo
+# Server app
 
 ## Intro
 
